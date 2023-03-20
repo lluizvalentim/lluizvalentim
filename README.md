@@ -11,7 +11,7 @@
 - 📫 How to reach me: https://www.linkedin.com/in/luiz-valentim-0a2ab4224/
 
 <br>
-<div align="center" style=" display: flex; justify-content: space-beetween; padding-bottom: 50px;">
+<div align="center" style=" display: flex; justify-content: space-beetween; margin-bottom: 50px;">
   
  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
  <img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> 
