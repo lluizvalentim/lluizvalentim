@@ -25,8 +25,7 @@
 
 <div align="center" dir="auto">
 <a href="https://github.com/lluizvalentim">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lluizvalentim&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lluizvalentim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
 </div>
 
 <br>
