@@ -7,7 +7,7 @@
 - ❤ Passionate about Javascript;
 - 🌱 NodeJS enthusiast; 
 - 😄 Pronouns: He/Him; 
-- 📫 How to reach me: https://www.linkedin.com/in/luiz-valentim-0a2ab4224/
+- 📫 How to reach me: https://www.linkedin.com/in/luiz-valentim-0a2ab4224/ .
 
 <br>
 <div align="center" style=" display: flex; justify-content: space-beetween;">
