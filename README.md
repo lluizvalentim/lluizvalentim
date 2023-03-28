@@ -3,10 +3,10 @@
 **lluizvalentim/lluizvalentim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 Front-end engineer; 
-- ❤ Passionate about Javascript;
-- 🌱 NodeJS enthusiast; 
-- 😄 Pronouns: He/Him; 
+- 🔭 Front-end engineer
+- ❤ Passionate about Javascript
+- 🌱 NodeJS enthusiast
+- 😄 Pronouns: He/Him
 - 📫 How to reach me: https://www.linkedin.com/in/luiz-valentim-0a2ab4224/ 
 
 <br>
